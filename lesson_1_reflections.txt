@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Using the 'diff' command in the terminal helps me compare two version of files which may be 
+    created at two different point of time. For example, a programmer after introducing some
+    changes in his/her code needs to refer the original copy of the code to to omit any potential
+    mistakes, he should use this command giving the old file name and new file name. This will
+    compare each code file line by line and spot the difference along with the line numbers.
+
+    Syntax
